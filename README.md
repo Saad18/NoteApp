@@ -1,3 +1,3 @@
 # Android MVVM NoteApp
 
-![](images/note1.jpg)
+![](images/note-1.png)
